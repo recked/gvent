@@ -1,0 +1,28 @@
+header {
+  nav {
+    height: 55px;
+    background: $nav;
+    .logo {
+      width: 200px;
+    }
+    ul {
+      // float: left;
+      // clear: right;
+    }
+    li {
+      display: inline-block;
+    }
+  }
+
+}
+
+
+.eventboard {
+  background: #2B2D29;
+  color: #fff;
+  height: 60px;
+  padding: 10px;
+  li {
+    display: inline-block;
+  }
+}
